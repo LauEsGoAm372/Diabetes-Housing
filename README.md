@@ -1,4 +1,4 @@
-#**Diabetes analysis and data housing**
+# **Diabetes analysis and data housing**
 
 You will find an .ipynb file, which deals with the manual and Sklearn analysis and implementation of logistic regression with gradient descent to the Diabetes dataset and the implementation of linear regression with gradient descent to the Housing Dataset (train and test). The paper is documented step by step for better understanding.
 
